@@ -10,9 +10,9 @@ void setup()
 
 void loop()
 {
-	//oneAfterAnotherLoop();
+	oneAfterAnotherLoop();
 	//oneOnAtATime();
-	inAndOut();
+	//inAndOut();
 }
 
 void oneAfterAnotherLoop()
